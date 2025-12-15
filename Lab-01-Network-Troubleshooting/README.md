@@ -48,3 +48,6 @@ No network connectivity issues were identified during troubleshooting. The devic
 
 Verified network connectivity across local network, internet access, and DNS resolution. No corrective action was required.
 
+Note: All network addresses shown in this lab are private, non-routable examples captured in a personal test environment.
+
+
