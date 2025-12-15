@@ -19,16 +19,19 @@ ipconfig
 
 Command used:
 ping 192.168.1.1
+![Ping default gateway](screenshots/step4-ping-gateway.png)
 
 ## Step 3: Test Internet Connectivity (Without DNS)
 
 Command used:
 ping 8.8.8.8
+![Ping public IP](screenshots/step5-ping-public-ip.png)
 
 ## Step 4: Test DNS Resolution
 
 Command used:
 nslookup google.com
+![DNS lookup result](screenshots/step6-nslookup-google.png)
 
 ## Findings
 
