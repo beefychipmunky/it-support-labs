@@ -13,6 +13,7 @@ Identify whether the issue is related to IP addressing, gateway connectivity, or
 
 Command used:
 ipconfig
+![ipconfig output](screenshots/step3-ipconfig.png)
 
 ## Step 2: Test Gateway Connectivity
 
